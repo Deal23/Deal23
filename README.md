@@ -7,12 +7,6 @@
   <a href="mailto:huachen23@mails.ucas.ac.cn">
     <img src="https://img.shields.io/badge/Email-huachen23@mails.ucas.ac.cn-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.researchgate.net/profile/Hua-Chen-103">
-    <img src="https://img.shields.io/badge/ResearchGate-Hua_Chen-00b37d?logo=researchgate&logoColor=white" alt="ResearchGate" />
-  </a>
-  <a href="https://orcid.org/0009-0008-8502-1068">
-    <img src="https://img.shields.io/badge/ORCID-0009--0008--8502--1068-A6CE39?logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
   <img src="https://img.shields.io/badge/WeChat-TIPC__HC-25D366?logo=wechat&logoColor=white" alt="WeChat" />
   <img src="https://img.shields.io/badge/QQ-1594280592-12B7F5?logo=tencent-qq&logoColor=white" alt="QQ" />
 </p>
