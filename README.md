@@ -4,9 +4,7 @@
 <h3 align="center">Ph.D. Student @ Technical Institute of Physics and Chemistry, Chinese Academy of Sciences</h3>
 
 <p align="center">
-  <a href="mailto:huachen23@mails.ucas.ac.cn">
-    <img src="https://img.shields.io/badge/Email-huachen23@mails.ucas.ac.cn-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Email-huachen23@mails.ucas.ac.cn-D14836?logo=gmail&logoColor=white" alt="Email" />
   <img src="https://img.shields.io/badge/WeChat-TIPC__HC-25D366?logo=wechat&logoColor=white" alt="WeChat" />
   <img src="https://img.shields.io/badge/QQ-1594280592-12B7F5?logo=tencent-qq&logoColor=white" alt="QQ" />
 </p>
