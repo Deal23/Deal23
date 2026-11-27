@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=GUH-kwcAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar%20citations-pending-lightgrey" alt="Google Scholar total citations" /></a>
+  <a href="https://scholar.google.com/citations?user=GUH-kwcAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar%20citations-117-blue" alt="Google Scholar total citations" /></a>
   <img src="https://komarev.com/ghpvc/?username=deal23&color=blue" alt="Profile views" />
 </p>
 
@@ -28,11 +28,11 @@
 
 ## 📄 Selected publications
 
-- **Machine learning potential for Ga–In alloy melting.** C. Hua, J. Liu. *Mater. Genome Eng. Adv.* (2026). [DOI](https://doi.org/10.1002/mgea.70091) · [Code](https://github.com/Deal23/NEP-GaIn) ![IF](https://img.shields.io/badge/IF-13.9-6f42c1) ![citations](https://img.shields.io/badge/citations-pending-lightgrey)
+- **Machine learning potential for Ga–In alloy melting.** C. Hua, J. Liu. *Mater. Genome Eng. Adv.* (2026). [DOI](https://doi.org/10.1002/mgea.70091) · [Code](https://github.com/Deal23/NEP-GaIn) ![IF](https://img.shields.io/badge/IF-13.9-6f42c1) ![citations](https://img.shields.io/badge/citations-1-blue)
 - **Low-melting-point metal routes toward making superconductors.** C. Hua, W. Bao, M. Guo, J. Liu. *Appl. Phys. Rev.* (2026). [DOI](https://doi.org/10.1063/5.0332228) ![IF](https://img.shields.io/badge/IF-10.8-6f42c1)
-- **Tree models machine learning to identify liquid metal based alloy superconductor.** C. Hua, J. Liu. *J. Mater. Sci.* (2025). [DOI](https://doi.org/10.1007/s10853-025-11121-z) ![IF](https://img.shields.io/badge/IF-4.4-6f42c1) ![citations](https://img.shields.io/badge/citations-pending-lightgrey)
-- **Room temperature self-healing liquid metals: capabilities, applications and challenges.** C. Hua, J. Gao, J. Liu. *Int. J. Smart Nano Mater.* (2024). [DOI](https://doi.org/10.1080/19475411.2024.2385349) ![IF](https://img.shields.io/badge/IF-6.5-6f42c1) ![citations](https://img.shields.io/badge/citations-pending-lightgrey)
-- **Liquid metal composites enabled high-safety flexible solid-state aluminum batteries.** Y. Tao, C. Hua et al. *Adv. Mater.* (2026). [DOI](https://doi.org/10.1002/adma.74076) ![IF](https://img.shields.io/badge/IF-29.1-6f42c1) ![citations](https://img.shields.io/badge/citations-pending-lightgrey)
+- **Tree models machine learning to identify liquid metal based alloy superconductor.** C. Hua, J. Liu. *J. Mater. Sci.* (2025). [DOI](https://doi.org/10.1007/s10853-025-11121-z) ![IF](https://img.shields.io/badge/IF-4.4-6f42c1) ![citations](https://img.shields.io/badge/citations-5-blue)
+- **Room temperature self-healing liquid metals: capabilities, applications and challenges.** C. Hua, J. Gao, J. Liu. *Int. J. Smart Nano Mater.* (2024). [DOI](https://doi.org/10.1080/19475411.2024.2385349) ![IF](https://img.shields.io/badge/IF-6.5-6f42c1) ![citations](https://img.shields.io/badge/citations-40-blue)
+- **Liquid metal composites enabled high-safety flexible solid-state aluminum batteries.** Y. Tao, C. Hua et al. *Adv. Mater.* (2026). [DOI](https://doi.org/10.1002/adma.74076) ![IF](https://img.shields.io/badge/IF-29.1-6f42c1) ![citations](https://img.shields.io/badge/citations-2-blue)
 
 *Citations: Google Scholar, updated daily when available · Impact factors: easyScholar*
 
